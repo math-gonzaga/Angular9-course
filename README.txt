@@ -7,3 +7,4 @@ npm i json-server
 
 ng add @angular/material
 ng generate component
+ng generate diretiva
