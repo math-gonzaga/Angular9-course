@@ -9,3 +9,4 @@ ng add @angular/material
 ng generate component
 ng generate diretiva
 ng generate service
+ng generate @angular/material:table nome componente
